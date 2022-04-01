@@ -1,1 +1,2 @@
 # Here are various programs for python programming
+THE CODES THAT I WRITE HERE ARE THE SMALLEST VERSIONS FOR GETTING THE ANSWERS ACCORDING TO ME 
